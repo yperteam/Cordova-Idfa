@@ -14,7 +14,7 @@
             </feature>
         </config-file>
         
-        <framework src="AdSupport.framework" weak="true" />
+        <framework src="AdSupport.framework" weak="false" />
         
         <header-file src="src/ios/CDVIdfa.h" />
         <source-file src="src/ios/CDVIdfa.m" />
